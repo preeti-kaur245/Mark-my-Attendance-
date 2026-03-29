@@ -1,0 +1,5 @@
+{
+  "name": "Mark my Attendance",
+  "description": "A professional, mobile-first university attendance tracking system with offline support and easy CSV exports.",
+  "requestFramePermissions": []
+}
